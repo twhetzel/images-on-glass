@@ -2,11 +2,11 @@
 <resources>
 
     <string name="app_name">Test Android App</string>
-    <string name="voice_trigger">Show Icons</string>
+    <string name="voice_trigger">Show Images</string>
     <string name="hello_world">Hello World!</string>
     
      <!-- Used for api cards to describe which API example will be triggered. -->
-    <string name="text_cards">Glass Icon Images</string>
+    <string name="text_cards">Scroll to see Images</string>
     <string name="text_gesture_detector">GestureDetector API examples</string>
     <string name="text_theming">Theming examples</string>
     

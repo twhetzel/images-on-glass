@@ -40,7 +40,7 @@ public final class CardsActivity extends Activity {
         super.onCreate(bundle);
 
         mCardScroller = new CardScrollView(this);
-        mCardScroller.setAdapter(new CardAdapter(createCards(this)));
+        //mCardScroller.setAdapter(new CardAdapter(createCards(this)));
         setContentView(mCardScroller);
     }
 
